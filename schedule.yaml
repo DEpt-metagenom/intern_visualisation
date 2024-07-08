@@ -1,0 +1,19 @@
+interns:
+  - name: Intern A
+    weeks:
+    - start: 06-01
+      end: 08-15
+      time: full
+  - name: Intern B
+    weeks:
+    - start: 07-19
+      end: 08-18
+      time: full
+    - start: 08-19
+      end: 10-12
+      time: half
+  - name: Intern C
+    weeks:
+    - start: 07-17
+      end: 09-17
+      time: full
